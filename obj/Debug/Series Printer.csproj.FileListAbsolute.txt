@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Series Printer\Series Printer\bin\Debug\Series Printer.exe.config
+C:\Users\DELL\source\repos\Series Printer\Series Printer\bin\Debug\Series Printer.exe
+C:\Users\DELL\source\repos\Series Printer\Series Printer\bin\Debug\Series Printer.pdb
+C:\Users\DELL\source\repos\Series Printer\Series Printer\obj\Debug\Series Printer.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Series Printer\Series Printer\obj\Debug\Series Printer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Series Printer\Series Printer\obj\Debug\Series Printer.exe
+C:\Users\DELL\source\repos\Series Printer\Series Printer\obj\Debug\Series Printer.pdb
